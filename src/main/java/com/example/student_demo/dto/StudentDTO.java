@@ -11,7 +11,7 @@ public class StudentDTO {
 
     private Long id;
 
-    @NotBlank(message = "Enter name")
+    @NotBlank(message = "Enter name DIPSHIT DUMBFUVCK")
     @Size(min = 5, max = 100)
     private String name;
 
